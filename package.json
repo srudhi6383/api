@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/srudhi6383/api#readme",
   "dependencies": {
-    "json-server": "^1.0.0-alpha.21"
+    "json-server": "1.0.0"
   }
 }
